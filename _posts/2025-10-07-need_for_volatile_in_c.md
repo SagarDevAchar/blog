@@ -4,7 +4,11 @@ title: Why we need "volatile" in C
 date: 2025-10-07 22:02:49 +0530
 categories: [technical, embedded]
 tags: [volatile, compiler, optimization, debugging, c]
+image:
+  path: assets\img\static\2025-10-07-volatile_meme.png
 ---
+
+<!-- ![volatile to the rescue](https://i.imgflip.com/a8fcsw.jpg) -->
 
 ## Intro to Compilers
 
